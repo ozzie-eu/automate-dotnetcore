@@ -5,7 +5,7 @@ So far I've made available examples on how to:
 - Compress files inside a given folder into a ZIP archive: compress-folder-zip
 - Flatten a folder, moving files to parent directory: flatten-folder
 - Scrape html table to csv text file: web-scrape-table
-
+- Take a CSV file and save it into Excel: save-csv-to-excel
 
 The samples are built with [VSCode](https://github.com/microsoft/vscode), the integrated terminal and the following extensions:
 - [C#](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)
