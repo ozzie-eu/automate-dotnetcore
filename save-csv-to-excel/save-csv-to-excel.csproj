@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>save_csv_to_excel</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="ClosedXML" Version="0.95.4"/>
+  </ItemGroup>
+</Project>
