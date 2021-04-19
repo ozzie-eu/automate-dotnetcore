@@ -9,6 +9,7 @@ So far I've made available examples on how to:
 - Create a basic Word document: create-simple-docx
 - Search text inside Word documents on a given folder and subfolders: search-text-docx
 - Get JSON data from a REST end point, parse and display content: read-json.rest-url
+- Read configuration settings from file on a console program: read-settings-file
 
 The samples are built with [VSCode](https://github.com/microsoft/vscode), the integrated terminal and the following extensions:
 - [C#](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)
