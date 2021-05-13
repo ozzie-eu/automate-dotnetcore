@@ -10,6 +10,7 @@ So far I've made available examples on how to:
 - Search text inside Word documents on a given folder and subfolders: search-text-docx
 - Get JSON data from a REST end point, parse and display content: read-json.rest-url
 - Read configuration settings from file on a console program: read-settings-file
+- Convert DOCX to PDF using only free open source software: docx-to-pdf
 
 The samples are built with [VSCode](https://github.com/microsoft/vscode), the integrated terminal and the following extensions:
 - [C#](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)
