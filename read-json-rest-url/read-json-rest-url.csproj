@@ -5,7 +5,7 @@
     <RootNamespace>read_json_rest_url</RootNamespace>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="RestSharp" Version="106.11.7"/>
+    <PackageReference Include="RestSharp" Version="106.12.0"/>
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1"/>
   </ItemGroup>
 </Project>
